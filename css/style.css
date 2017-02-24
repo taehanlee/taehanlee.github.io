@@ -144,6 +144,7 @@ a:focus{
 	font-size: 30px;
 	color: #673bb7;
 
+
 }
 
 .media-body h4 {
@@ -153,6 +154,16 @@ a:focus{
 	font-weight: 700;
 	color: #673bb7;
 	text-align: center;
+}
+
+.bg {
+	text-align: justify;
+}
+
+.pltfrms {
+	text-align: justify;
+	margin-left: -25px;
+
 }
 
 #tf-portfolio{
