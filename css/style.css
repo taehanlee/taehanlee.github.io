@@ -272,8 +272,8 @@ ul.cat.list-inline li a:hover{
 
 #tf-why-me{
 	background: url(../img/10.jpg);
-	background-size: cover;
-	background-position: center;
+	background-size: 50%;
+	background-position: right;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	color: #222222;
@@ -345,3 +345,8 @@ nav#tf-footer {
 	color: #f1f1f1;
 }
 
+@media (max-width: 1000px) {
+	#tf-why-me {
+		background: none;
+	}
+}
