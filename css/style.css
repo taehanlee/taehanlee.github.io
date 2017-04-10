@@ -271,13 +271,25 @@ ul.cat.list-inline li a:hover{
 }
 
 #tf-why-me{
-	background: url(../img/10.jpg);
+	/*background: url(../img/10.jpg);*/
 	background-size: 50%;
 	background-position: right;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	color: #222222;
 	text-align: left;
+}
+
+.infobox:hover {
+	transform: scale(1.1);
+	opacity: 1;
+}
+
+#box1 {
+	position: relative;
+	background-color: lightpurple;
+	padding: 2% 5%;
+
 }
 
 #tf-why-me .overlay{
