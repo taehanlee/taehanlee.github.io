@@ -271,7 +271,7 @@ ul.cat.list-inline li a:hover{
 }
 
 #tf-why-me{
-	/*background: url(../img/10.jpg);*/
+	background: url(../img/10.jpg);
 	background-size: 50%;
 	background-position: right;
 	background-attachment: scroll;
